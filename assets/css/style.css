@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    padding: 10px;
+}
+.navbar-brand{
+    padding: 9px;
+    background-color: rgb(194, 178, 178);
+}
+.perfil{
+    padding: 10px;
+}
+.traco{
+    text-decoration: underline;
+    width: 100px;
+}
+img{
+    height: 250px;
+}
+.perfil{
+    display: flex;
+    margin: 20px;
+}
+
+a{
+    color: black;
+
+}
+a:hover{
+    color: cadetblue;
+}
+button{
+    color: black;
+}
+.rodape{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    padding: 10px;
+    margin: 5px;
+}
+.descricao{
+    width: 580px;
+}
+h3{
+    color: cadetblue;
+}
